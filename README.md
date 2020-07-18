@@ -3,4 +3,4 @@
 ## Typescript-lesson1
 
 
-## Variales in process
+## Varibles in process
