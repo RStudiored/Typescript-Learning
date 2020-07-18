@@ -7,5 +7,12 @@ var Color;
     Color[Color["Green"] = 1] = "Green";
     Color[Color["Blue"] = 2] = "Blue";
 })(Color || (Color = {}));
+;
 var c = Color.Green;
 console.log(c);
+var notSure = 4;
+notSure = "rafi";
+console.log(notSure);
+if (c instanceof Color) {
+    console.log('yes color');
+}
